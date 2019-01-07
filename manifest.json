@@ -3,12 +3,12 @@
     "name": "Food Map",
     "icons": [
       {
-        "src": "./img/burger-and-soda.png",
+        "src": "img/burger-and-soda.png",
         "type": "image/jpg",
         "sizes": "192x192"
       },
       {
-        "src": "./img/burger-and-soda.png",
+        "src": "img/burger-and-soda.png",
         "type": "image/jpg",
         "sizes": "512x512"
       }
