@@ -3,12 +3,12 @@
     "name": "Food Map",
     "icons": [
       {
-        "src": "./img/burger-and-soda.png",
+        "src": "/img/burger-and-soda.png",
         "type": "image/jpg",
         "sizes": "144x144"
       },
       {
-        "src": "./img/covered-food-tray-on-a-hand-of-hotel-room-service.png",
+        "src": "/img/covered-food-tray-on-a-hand-of-hotel-room-service.png",
         "type": "image/jpg",
         "sizes": "512x512"
       }
