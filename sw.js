@@ -1,4 +1,4 @@
-const foodCache = 'food-cache-8'
+const foodCache = 'food-cache-9'
 
 self.addEventListener('activate', event => {
     event.waitUntil(
