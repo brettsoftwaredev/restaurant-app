@@ -348,30 +348,30 @@ nav h1 a {
     
   /* ====================== Navigation ====================== */
   nav {
-    height: 150px;
+    height: 70px;
   }
   nav h1 a {
-    font-size: 55pt;
+    font-size: 35pt;
   }
     
   /* ====================== Restaurant Filtering ====================== */
   .filter-options {
-    height: 190px;
+    height: 70px;
   }
   .filter-options h2 {
-    font-size: 70px;
-    width: 450px;
+    font-size: 30px;
+    width: 250px;
     margin: auto;
   }
   .filter-options select {
-    font-size: 45px;
+    font-size: 20px;
     margin: auto;
-    width: 500px;
-    height: 85px;
+    width: 250px;
+    height: 30px;
   }
   /* ====================== Map ====================== */
   #map {
-    height: 1000px;
+    height: 350px;
   }
   /* ====================== Restaurant Listing ====================== */
   
@@ -380,19 +380,19 @@ nav h1 a {
     width: 22%;
   }
   #restaurants-list li h1 {
-    font-size: 64pt;
+    font-size: 34pt;
   }
   #restaurants-list p {
-    font-size: 41pt;
+    font-size: 21pt;
   }
   #restaurants-list li a {
-    font-size: 30pt;
+    font-size: 15pt;
   }
   
   /* ====================== Restaurant Details ====================== */
 
   .inside nav h1 a {
-    font-size: 55pt;
+    font-size: 35pt;
   }
   .inside #map-container {
     height: 1000px;
