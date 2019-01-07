@@ -5,10 +5,10 @@
       {
         "src": "/img/burger-and-soda.png",
         "type": "image/jpg",
-        "sizes": "144x144"
+        "sizes": "192x192"
       },
       {
-        "src": "/img/covered-food-tray-on-a-hand-of-hotel-room-service.png",
+        "src": "/img/burger-and-soda.png",
         "type": "image/jpg",
         "sizes": "512x512"
       }
